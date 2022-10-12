@@ -1,7 +1,7 @@
 # windows-11-drag-and-drop-to-taskbar-fix
 Windows 11 Drag And Drop To Taskbar Fix
 
-In windows 11 drag and drop to taskbar feature not available.
+In windows 11 drag and drop to taskbar feature not available. Here is the solution!
 
 Run this Windows11DragAndDropToTaskbarFix.exe file on your windows 11 machine and you will be eble to fix that issue.
 
