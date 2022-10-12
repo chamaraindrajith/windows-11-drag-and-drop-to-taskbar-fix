@@ -1,6 +1,6 @@
-#Windows 11 Drag And Drop To Taskbar Fix
+# Windows 11 Drag And Drop To Taskbar Fix
 
-English
+# English
 
 In windows 11 drag and drop to taskbar feature not available. Here is the solution!
 
@@ -11,7 +11,7 @@ How to use it?
 1. Simply run Windows11DragAndDropToTaskbarFix.exe
 2. It will show on taskbar icons. Now you can drag and drop files to taskbar.
 
-සිංහල
+# සිංහල
 
 windows 11 හි taskbar වෙත ඇදගෙන යාමේ විශේෂාංගය නොමැත. මෙන්න විසඳුම!
 
